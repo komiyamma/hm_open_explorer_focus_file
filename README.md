@@ -1,0 +1,2 @@
+# hm_open_explorer_focus_file
+現在秀丸で開いているファイルを選択しつつエキスプローラーで開く
