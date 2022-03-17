@@ -1,4 +1,4 @@
-- HmAllKill
+- HmOpenExplorerFocusFile
 
 
    CC0 1.0 Universal
