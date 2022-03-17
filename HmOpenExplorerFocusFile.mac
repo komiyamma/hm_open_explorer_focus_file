@@ -2,4 +2,8 @@
  * This codes is licensed under CC0 1.0 Universal
  */
 
-run "explorer.exe /e,/select," + "\""+filename2+"\"";
+if (filename2=="") {
+	run "explorer.exe /e,/select," + "\""+hidemarudir+"\\hidemaru.exe" + "\"";
+} else {
+	run "explorer.exe /e,/select," + "\""+filename2+"\"";
+}
